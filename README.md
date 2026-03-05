@@ -1,0 +1,1 @@
+In this repo I will learn python, all topics are from roadmap.sh
